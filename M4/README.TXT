@@ -1,1 +1,0 @@
-Simply run the file all the way through for optimal results. There are small descriptions of each of the tests I ran throughout the notebook that you can read.
